@@ -2,6 +2,7 @@
 
 
 Application Requirements:
+
 Display available times for a meeting room booking for a user to select one time slot for a single day
 The time range the room is generally available is 9AM – 5PM
 The duration for a meeting slot is 30 minutes
